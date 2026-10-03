@@ -16,7 +16,7 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=gdrci&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="github stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdrci&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gdrci&theme=tokyonight" alt="top languages" />
 
 </div>
 
