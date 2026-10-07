@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gdrci&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&locale=cn" alt="GitHub 统计" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gdrci&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub 统计" />
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gdrci&theme=tokyonight" alt="常用编程语言" />
 
 </div>
@@ -55,4 +55,4 @@ See the statistics cards above.
 
 Discord: **@gdrci** &nbsp;·&nbsp; [oculus.rocks](https://oculus.rocks) &nbsp;·&nbsp; [discord.gg/oculus](https://discord.gg/oculus)
 
-</details>****
+</details>
